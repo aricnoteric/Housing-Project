@@ -9,19 +9,19 @@
 -Some of the Business questions posed are:
     <ol>
     <li>Distribution of dwelling types and their relation to sale prices?<\li>
-    ![](/images/1.png)
+    ![](/Images/1.png)
     <li>Does zoning impact sale price?<\li>
-    ![](/images/2.png)
+    ![](/Images/2.png)
     <li>Does street and alley access types effect on sale price?<\li>
-    ![](/images/3.png)
+    ![](/Images/3.png)
     <li>What is the Average sale price by property shape?<\li>
-    ![](/images/4.png)    
+    ![](/Images/4.png)    
     <li>Is there a Correlation between Property Age and Sale Price<\li>
-    ![](/images/5.png)    
+    ![](/Images/5.png)    
     <li>Is there a Correlation between Living Area and Sale Price<\li>
-    ![](/images/6.png)
+    ![](/Images/6.png)
     <li>Does price change year to year?<\li>
-    ![](/images/7.png)
+    ![](/Images/7.png)
     </ol>
 -TLDR results:Best Root Mean Square Error on test data: 0.1338293656945751
     
