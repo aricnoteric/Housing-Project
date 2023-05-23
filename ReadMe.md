@@ -1,4 +1,4 @@
-# Housing Price Regression Modelling
+# Housing Price Regression Modelling and Visualizations
 -This project focuses on a few topics
     <ol>
     <li>Exploratory Data Analysis</li>
